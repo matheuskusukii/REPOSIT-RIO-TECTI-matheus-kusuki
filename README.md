@@ -1,4 +1,4 @@
-# REPOSIT-RIO-TECTI-matheus-kusuki
+# REPOSITORIO-TECTI-matheus-kusuki
 repósitorio tecti 
 
 by matheus kusuki
